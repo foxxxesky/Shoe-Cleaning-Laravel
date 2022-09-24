@@ -1,0 +1,430 @@
+* {
+    font-family: "Inter", sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    height: 100%;
+    overflow-x: hidden;
+    background-color: #f8f5fd;
+}
+
+/* Navbar */
+#shoecleaning-text {
+    font-family: "Londrina Solid", cursive;
+    font-size: 28px;
+    color: #ffffff;
+}
+
+#nav-item {
+    font-size: 18px;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+#login-button {
+    font-size: 18px;
+    font-weight: 600;
+    color: #8f5bd8;
+}
+
+#userdropdown {
+    font-size: 18px;
+    font-weight: 600;
+    color: #8f5bd8;
+}
+/* Navbar */
+
+/* Jumbotron */
+#jumbotron {
+    background-color: #8f5bd8;
+}
+
+#text-jumbotron {
+    font-size: 38px;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+#desc-jumbotron {
+    font-size: 14px;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+#img-jumbotron {
+    position: absolute;
+    width: 485px;
+    height: 390px;
+}
+
+#button-jumbotron {
+    font-size: 20px;
+    font-weight: 600;
+    color: #8f5bd8;
+}
+/* Jumbotron */
+
+/* Layanan Kami */
+#text-layanankami {
+    font-size: 36px;
+    font-weight: 700;
+    color: #504a4a;
+}
+
+#desc-layanan {
+    font-size: 16px;
+    color: #504a4a;
+}
+
+/* #img-layanan {
+    width: 259px;
+    height: 243px;
+} */
+
+#item-layanan {
+    font-size: 24px;
+    font-weight: 600;
+    color: #504a4a;
+}
+/* Layanan Kami */
+
+/* Bagaimana Kami Bekerja */
+#text-carakerja {
+    font-size: 36px;
+    font-weight: 700;
+    color: #504a4a;
+}
+
+#slip-titlecarakerja,
+#slip-color-carakerja {
+    color: #8f5bd8;
+}
+
+#desc-carakerja {
+    font-size: 16px;
+    color: #504a4a;
+}
+
+#img-carakerja {
+    width: 150px;
+    height: 150px;
+}
+
+#item-carakerja {
+    font-size: 16px;
+    font-weight: 700;
+    color: #504a4a;
+}
+/* Bagaimana Kami Bekerja */
+
+/* testimoni */
+#text-testimoni {
+    font-size: 36px;
+    font-weight: 700;
+    color: #504a4a;
+}
+
+#img-testimoni {
+    width: 388px;
+    height: 279px;
+}
+
+#text-title-testimoni {
+    font-size: 24px;
+    font-weight: 600;
+    color: #504a4a;
+}
+
+#person {
+    font-size: 18px;
+    font-weight: 600;
+    color: #504a4a;
+}
+
+#desc-testimoni,
+#location {
+    font-size: 16px;
+    color: #504a4a;
+}
+/* testimoni */
+
+/* Tentang */
+#text-tentang {
+    font-size: 36px;
+    font-weight: 700;
+    color: #504a4a;
+}
+
+#desc-tentang {
+    font-size: 16px;
+    color: #504a4a;
+}
+
+#kisahkami {
+    font-size: 16px;
+    font-weight: 700;
+    color: #504a4a;
+}
+/* Tentang */
+
+/* Our Team */
+#text-team {
+    font-size: 36px;
+    font-weight: 700;
+    color: #504a4a;
+}
+
+#img-team {
+    width: 230px;
+    height: 230px;
+}
+
+#name {
+    font-size: 22px;
+    font-weight: 600;
+    color: #504a4a;
+}
+
+#role {
+    font-size: 16px;
+    color: #504a4a;
+}
+/* Our Team */
+
+/* Footer */
+#footer {
+    background: #8f5bd8;
+}
+
+#shoecleaning-footer {
+    font-family: "Londrina Solid", cursive;
+    font-size: 18px;
+    color: #ffffff;
+}
+
+#desc-col1 {
+    font-size: 17px;
+}
+
+#footer-text {
+    font-size: 18px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+#desc-col1 {
+    font-size: 14px;
+    color: #ffffff;
+}
+/* Footer */
+
+/* /FOR SERVICES/ */
+
+#img-service {
+    width: 242px;
+    height: 353px;
+}
+
+#ServiceTitle {
+    font-size: 30px;
+    font-weight: 500;
+    color: #504a4a;
+}
+
+#ServicePrice {
+    font-size: 23px;
+    color: #504a4a;
+}
+
+#ServiceDesc {
+    font-size: 14px;
+    color: #504a4a;
+}
+
+#jumlah {
+    font-size: 14px;
+    width: 110px;
+    color: #504a4a;
+}
+
+#buttonservice {
+    font-size: 15px;
+    background-color: #8f5bd8;
+    color: #ffffff;
+}
+
+/* Checkouts */
+#order-title {
+    font-size: 36px;
+    font-weight: 700;
+    color: #504a4a;
+}
+
+#order-desc {
+    font-size: 16px;
+    font-weight: 500;
+    color: #a6a4a4;
+}
+
+#order-text {
+    font-size: 18px;
+    font-weight: 500;
+    color: #504a4a;
+}
+
+#submit-checkout {
+    font-size: 15px;
+    background-color: #8f5bd8;
+    color: #ffffff;
+}
+
+/* MyOrder */
+#cuci-button {
+    font-size: 15px;
+    background-color: #8f5bd8;
+    color: #ffffff;
+}
+
+#ordersaya-title {
+    font-size: 36px;
+    font-weight: 700;
+    color: #504a4a;
+}
+
+#ordersaya-desc {
+    font-size: 16px;
+    font-weight: 500;
+    color: #a6a4a4;
+}
+
+#table-head {
+    font-size: 18px;
+    font-weight: 700;
+    color: #504a4a;
+}
+
+#table-item {
+    font-size: 18px;
+    font-weight: 500;
+    color: #504a4a;
+}
+
+#detail-button {
+    font-size: 15px;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+#ulasan-button {
+    font-size: 15px;
+    font-weight: 500;
+    color: #ffffff;
+    background-color: #8f5bd8;
+}
+
+/* Invoice */
+#invoice-title {
+    font-family: "Londrina Solid", cursive;
+    font-size: 36px;
+    color: #8f5bd8;
+}
+
+#span-invoice {
+    font-size: 18px;
+    font-weight: 500;
+    color: #a6a4a4;
+}
+
+#table-left {
+    font-size: 18px;
+    font-weight: 500;
+    color: #a6a4a4;
+}
+
+#table-right {
+    font-size: 18px;
+    font-weight: 500;
+    color: #504a4a;
+}
+
+#kasir {
+    font-size: 18px;
+    font-weight: 500;
+    color: #504a4a;
+}
+
+#bottom-text-invoice {
+    font-size: 14px;
+    font-weight: 500;
+    color: #a6a4a4;
+}
+
+#span-bottom-invoice {
+    color: #8f5bd8;
+}
+
+/* ulasan */
+#ulasan-heading {
+    color: #504a4a;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+#ulasan-subheading {
+    color: #504a4a;
+    font-size: 32px;
+    font-weight: 500;
+}
+
+#ulasan-text {
+    color: #a6a4a4;
+    font-size: 14px;
+}
+
+/* Profile */
+#profile-title {
+    font-size: 36px;
+    font-weight: 700;
+    color: #504a4a;
+}
+
+/* MyOrder */
+#cuci-button {
+    font-size: 15px;
+    background-color: #8f5bd8;
+    color: #ffffff;
+}
+
+#ordersaya-title {
+    font-size: 36px;
+    font-weight: 700;
+    color: #504a4a;
+}
+
+#ordersaya-desc {
+    font-size: 16px;
+    font-weight: 500;
+    color: #a6a4a4;
+}
+
+#table-head {
+    font-size: 18px;
+    font-weight: 700;
+    color: #504a4a;
+}
+
+#table-item {
+    font-size: 18px;
+    font-weight: 500;
+    color: #504a4a;
+}
+
+#detail-button {
+    font-size: 15px;
+    font-weight: 500;
+    color: #ffffff;
+}

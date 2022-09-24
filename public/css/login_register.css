@@ -1,0 +1,96 @@
+* {
+    font-family: "Inter", sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    height: 100%;
+    overflow-x: hidden;
+    background-color: #f8f5fd;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+/* Konten Kiri */
+
+#text-kiri {
+    font-size: 24px;
+    font-weight: 600;
+    color: #504a4a;
+}
+
+#slip-color {
+    color: #98cdc8;
+}
+
+#img-kiri {
+    width: 721px;
+    height: 630px;
+}
+
+/* Konten Kiri */
+
+/* Register & Login Page */
+
+#text-registrasi,
+#text-masuk {
+    font-size: 36px;
+    font-weight: 700;
+    color: #504a4a;
+}
+
+#form-text {
+    font-size: 18px;
+    color: #504a4a;
+}
+
+#checkbox-text {
+    font-size: 11px;
+    color: #504a4a;
+}
+
+#checkbox-text {
+    font-size: 14px;
+    font-weight: 500;
+    color: #a5a5a5;
+}
+
+#checkbox-text-login {
+    font-size: 14px;
+    font-weight: 500;
+    color: #504a4a;
+}
+
+#slip-color2 {
+    color: #4461f2;
+}
+
+#register-button-text {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+#login-button {
+    width: 100%;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+#link-text-login,
+#link-text-register {
+    font-size: 14px;
+    font-weight: 500;
+    color: #504a4a;
+}
+
+#link-page {
+    text-decoration: none;
+}
+
+/* Register Page */
